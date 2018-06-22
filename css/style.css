@@ -1,3 +1,16 @@
-p{
+.box1 h1 {
+  font-size: 30px;
+  color:#ffffff
+}
+
+.box1 p{
   color: red;
+}
+
+.list a {
+text-decoration: none;
+}
+
+.list a:hover {
+  color: #ffffff
 }
