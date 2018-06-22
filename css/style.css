@@ -1,6 +1,6 @@
 .box1 h1 {
   font-size: 30px;
-  color:#ffffff
+  color:#000080
 }
 
 .box1 p{
@@ -8,9 +8,9 @@
 }
 
 .list a {
-text-decoration: none;
+  text-decoration: none;
 }
 
 .list a:hover {
-  color: #ffffff
+  color: #C0C0C0
 }
