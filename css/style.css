@@ -4,7 +4,7 @@
 }
 
 .box1 p{
-  color: red;
+  color: black;
 }
 
 .list a {
@@ -13,4 +13,8 @@
 
 .list a:hover {
   color: #C0C0C0
+}
+
+.ul {
+  list-style: none;
 }
